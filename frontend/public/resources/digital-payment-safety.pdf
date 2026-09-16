@@ -1,0 +1,80 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1545 >>
+stream
+BT
+/F1 16 Tf
+30 750 Td
+(FinSakhi - Digital Banking & Mobile Wallet Security Guide) Tj
+0 -24 Td
+/F1 11 Tf
+(Published by Pon Crystal Foundation | Cyber Crime Portal: cybercrime.gov.in) Tj
+0 -15 Td
+(--------------------------------------------------------------------------------) Tj
+0 -20 Td
+/F1 12 Tf
+(1. Mobile Banking App Security Setup) Tj
+0 -16 Td
+/F1 10 Tf
+(? Lock your smartphone with strong PIN, Pattern, or Fingerprint biometric security.) Tj
+0 -14 Td
+/F1 10 Tf
+(? Enable 2-Factor Authentication \(2FA\) on all banking, UPI, and mobile wallet accounts.) Tj
+0 -14 Td
+/F1 10 Tf
+(? Never share OTP \(One Time Password\), ATM PIN, or Internet Banking Passwords with anyone.) Tj
+0 -20 Td
+/F1 12 Tf
+(2. Beware of Remote Access App Traps) Tj
+0 -16 Td
+/F1 10 Tf
+(? Never install apps like AnyDesk, TeamViewer, QuickSupport, or RustDesk on caller request!) Tj
+0 -14 Td
+/F1 10 Tf
+(? Scammers use these apps to view your phone screen and steal banking passwords silently.) Tj
+0 -20 Td
+/F1 12 Tf
+(3. Safe Internet & Wi-Fi Habits) Tj
+0 -16 Td
+/F1 10 Tf
+(? Never conduct online banking or UPI transactions using public, open, or unsecured Wi-Fi networks.) Tj
+0 -14 Td
+/F1 10 Tf
+(? Check for 'https://' and padlock icon in the browser address bar before entering passwords.) Tj
+0 -20 Td
+/F1 12 Tf
+(4. Emergency Support & Helpline Numbers) Tj
+0 -16 Td
+/F1 10 Tf
+(? National Cyber Financial Crime Helpline: Dial 1930 \(Available 24x7, Toll-Free\).) Tj
+0 -14 Td
+/F1 10 Tf
+(? RBI Banking Ombudsman Helpline: Dial 14448 for unresolved bank complaints.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000246 00000 n 
+0000000300 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+400
+%%EOF
